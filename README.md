@@ -3,5 +3,16 @@
 
 A list of my favorite sites.
 
-- 一亩三分地 http://www.1point3acres.com/bbs/ 美国加拿大留学工作咨询 (特点：大公司的面经)
+## Sales
 - Free Ebook Everyday https://www.packtpub.com/packt/offers/free-learning
+
+## Forums
+- 一亩三分地 http://www.1point3acres.com/bbs/ 美国加拿大留学工作咨询 (特点：大公司的面经)
+
+## Blogs
+- 王垠 http://www.yinwang.org/
+- 阮一峰 http://www.ruanyifeng.com/blog/
+- 陈皓 http://coolshell.cn/
+- 小胡子哥 http://www.barretlee.com/entry/
+
+
