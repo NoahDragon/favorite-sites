@@ -17,6 +17,9 @@ A list of my favorite sites.
 - 小胡子哥 http://www.barretlee.com/entry/
 - 邓钢(米粽) https://myst729.github.io/#/blog
 
+## Hardwares
+- PC Part Picker https://pcpartpicker.com/
+
 ## Miscellaneous
 - GoodReaders https://www.goodreads.com/
 
