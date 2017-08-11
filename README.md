@@ -24,5 +24,6 @@ A list of my favorite sites.
 
 ## Miscellaneous
 - GoodReaders https://www.goodreads.com/
+- StumbleUpon http://www.stumbleupon.com
 
 
