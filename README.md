@@ -27,5 +27,6 @@ A list of my favorite sites.
 ## Miscellaneous
 - GoodReaders https://www.goodreads.com/
 - StumbleUpon http://www.stumbleupon.com
+- Best online game of life simulator http://dcode.io/ Also the AssemblyScript author's home page.
 
 
