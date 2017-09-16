@@ -20,6 +20,7 @@ A list of my favorite sites.
 - 邓钢(米粽) https://myst729.github.io/#/blog
 - XKCD https://xkcd.com
 - 王树义老师 http://www.jianshu.com/u/7618ab4a30e4
+- Gene Kogan http://genekogan.com/
 
 ## Hardwares
 - PC Part Picker https://pcpartpicker.com/
