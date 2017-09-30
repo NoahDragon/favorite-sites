@@ -3,6 +3,9 @@
 
 A list of my favorite sites.
 
+## Tools
+- Online calculator https://instacalc.com/
+
 ## Sales
 - Free IT Ebook Everyday https://www.packtpub.com/packt/offers/free-learning
 - Discount games and books https://www.humblebundle.com/
