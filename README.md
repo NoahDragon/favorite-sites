@@ -29,6 +29,9 @@ A list of my favorite sites.
 ## Hardwares
 - PC Part Picker https://pcpartpicker.com/
 
+## Learning
+- Handmade Hero http://handmadehero.org
+
 ## Miscellaneous
 - GoodReaders https://www.goodreads.com/
 - StumbleUpon http://www.stumbleupon.com
