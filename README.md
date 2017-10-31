@@ -30,7 +30,10 @@ A list of my favorite sites.
 - PC Part Picker https://pcpartpicker.com/
 
 ## Learning
-- Handmade Hero http://handmadehero.org
+- Handmade Hero http://handmadehero.org Game developing from scrach
+
+## Books
+- Gutenberg Project http://www.gutenberg.org/ Public domain books (epub, pdf, txt). Could use as NLP data source.
 
 ## Miscellaneous
 - GoodReaders https://www.goodreads.com/
