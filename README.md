@@ -4,8 +4,7 @@
 A list of my favorite sites.
 
 ## Tools
-- Online calculator https://instacalc.com/
-- WolframAlpha (LaTex math formular calculation) http://www.wolframalpha.com/
+- Move to https://github.com/NoahDragon/tool-sites
 
 ## Sales
 - Free IT Ebook Everyday https://www.packtpub.com/packt/offers/free-learning
