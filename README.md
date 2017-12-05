@@ -19,7 +19,7 @@ A list of my favorite sites.
 ## Blogs
 - 王垠 http://www.yinwang.org/
 - 阮一峰 http://www.ruanyifeng.com/blog/
-- 陈皓 http://coolshell.cn/
+- 陈皓 https://coolshell.cn/
 - 小胡子哥 http://www.barretlee.com/entry/
 - 邓钢(米粽) https://myst729.github.io/#/blog
 - XKCD https://xkcd.com
@@ -30,7 +30,7 @@ A list of my favorite sites.
 - PC Part Picker https://pcpartpicker.com/
 
 ## Learning
-- Handmade Hero http://handmadehero.org Game developing from scrach
+- Handmade Hero https://handmadehero.org Game developing from scrach
 
 ## Books
 - Gutenberg Project http://www.gutenberg.org/ Public domain books (epub, pdf, txt). Could use as NLP data source.
