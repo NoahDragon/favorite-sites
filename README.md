@@ -32,6 +32,7 @@ A list of my favorite sites.
 
 ## Learning
 - Handmade Hero https://handmadehero.org Game developing from scrach
+- Cloud Computing (GCP/AWS) https://google-run.qwiklab.com
 
 ## Books
 - Gutenberg Project http://www.gutenberg.org/ Public domain books (epub, pdf, txt). Could use as NLP data source.
