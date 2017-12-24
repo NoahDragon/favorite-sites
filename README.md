@@ -6,6 +6,10 @@ A list of my favorite sites.
 ## Tools
 - Move to https://github.com/NoahDragon/tool-sites
 
+## Datasets
+- Kaggle datasets https://www.kaggle.com/datasets
+- Financial and economic data https://www.quandl.com/
+
 ## Sales
 - Free IT Ebook Everyday https://www.packtpub.com/packt/offers/free-learning
 - Free design stuffs every month https://themeforest.net/collections
