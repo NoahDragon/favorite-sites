@@ -39,7 +39,8 @@ A list of my favorite sites.
 - Handmade Hero https://handmadehero.org Game developing from scrach
 - Cloud Computing (GCP/AWS) https://google-run.qwiklab.com
 - Blockchain Cyber Currency https://online.stanford.edu/course/bitcoin-and-crypto-currencies
-
+- Convolutional Neural Network http://scs.ryerson.ca/~aharley/vis/conv/flat.html
+- Neural Network Playground http://playground.tensorflow.org/
 ## Books
 - Gutenberg Project http://www.gutenberg.org/ Public domain books (epub, pdf, txt). Could use as NLP data source.
 
