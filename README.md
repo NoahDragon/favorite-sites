@@ -14,7 +14,7 @@ A list of my favorite sites.
 - Free IT Ebook Everyday https://www.packtpub.com/packt/offers/free-learning
 - Free design stuffs every month 
   * https://themeforest.net/collections
-  * https://elements.envato.com/
+  * https://elements.envato.com/ (need account to login)
 - Discount games and books https://www.humblebundle.com/
 - Text book international version http://samebooks.com/ 
 - Cheaper books https://www.abebooks.com
