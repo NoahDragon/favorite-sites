@@ -42,7 +42,7 @@ A list of my favorite sites.
 - Blockchain Cyber Currency https://online.stanford.edu/course/bitcoin-and-crypto-currencies
 - Convolutional Neural Network http://scs.ryerson.ca/~aharley/vis/conv/flat.html
 - Neural Network Playground http://playground.tensorflow.org/
-- Free deep learning course (using Keras) http://www.fast.ai/index.html
+- Free deep learning course (using Keras) http://www.fast.ai/index.html Many people on Kaggle recommend this.
 
 ## Books
 - Gutenberg Project http://www.gutenberg.org/ Public domain books (epub, pdf, txt). Could use as NLP data source.
