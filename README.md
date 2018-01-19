@@ -31,6 +31,7 @@ A list of my favorite sites.
 - XKCD https://xkcd.com
 - 王树义老师 https://www.jianshu.com/u/7618ab4a30e4
 - Gene Kogan http://genekogan.com/
+- Peter Krumins http://www.catonmat.net/
 
 ## Hardwares
 - PC Part Picker https://pcpartpicker.com/
