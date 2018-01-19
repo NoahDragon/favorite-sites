@@ -47,6 +47,9 @@ A list of my favorite sites.
 ## Books
 - Gutenberg Project http://www.gutenberg.org/ Public domain books (epub, pdf, txt). Could use as NLP data source.
 
+## Competition & Challenge
+- Kaggle https://www.kaggle.com
+
 ## Miscellaneous
 - GoodReaders https://www.goodreads.com/
 - StumbleUpon http://www.stumbleupon.com
