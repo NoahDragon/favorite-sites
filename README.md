@@ -44,6 +44,7 @@ A list of my favorite sites.
 - Convolutional Neural Network http://scs.ryerson.ca/~aharley/vis/conv/flat.html
 - Free deep learning course (using Keras) http://www.fast.ai/index.html Many people on Kaggle recommend this.
 - Arxiv Sanity http://www.arxiv-sanity.com/
+- Google Machine Learning Crash Course (Tensorflow) https://developers.google.com/machine-learning/crash-course/
 
 ## Playground
 - Neural Network Playground http://playground.tensorflow.org/
