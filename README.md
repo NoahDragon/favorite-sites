@@ -62,5 +62,6 @@ A list of my favorite sites.
 - StumbleUpon http://www.stumbleupon.com
 - Best online game of life simulator http://dcode.io/ Also the AssemblyScript author's home page.
 - Best airline price check and alert http://adioso.com
+- Live stream fails https://livestreamfails.com/
 
 
