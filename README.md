@@ -50,6 +50,7 @@ A list of my favorite sites.
 - Neural Network Playground http://playground.tensorflow.org/
 - Neural doodle http://likemo.net/
 - Image to image https://affinelayer.com/
+- Deep traffic https://selfdrivingcars.mit.edu/deeptraffic/
 
 ## Books
 - Gutenberg Project http://www.gutenberg.org/ Public domain books (epub, pdf, txt). Could use as NLP data source.
