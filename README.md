@@ -45,6 +45,7 @@ A list of my favorite sites.
 - Free deep learning course (using Keras) http://www.fast.ai/index.html Many people on Kaggle recommend this.
 - Arxiv Sanity http://www.arxiv-sanity.com/
 - Google Machine Learning Crash Course (Tensorflow) https://developers.google.com/machine-learning/crash-course/
+- Google Machine Learning Practica (Keras) https://developers.google.com/machine-learning/practica/
 
 ## Playground
 - Neural Network Playground http://playground.tensorflow.org/
