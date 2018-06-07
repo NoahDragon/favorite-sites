@@ -10,6 +10,7 @@ A list of my favorite sites.
 - Kaggle datasets https://www.kaggle.com/datasets
 - Financial and economic data https://www.quandl.com/
 - ImageNet http://www.image-net.org/
+- UCI Machine Learning Repository https://archive.ics.uci.edu/ml/index.php
 
 ## Sales
 - Free IT Ebook Everyday https://www.packtpub.com/packt/offers/free-learning
