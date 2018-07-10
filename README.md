@@ -47,6 +47,8 @@ A list of my favorite sites.
 - Arxiv Sanity http://www.arxiv-sanity.com/
 - Google Machine Learning Crash Course (Tensorflow) https://developers.google.com/machine-learning/crash-course/
 - Google Machine Learning Practica (Keras) https://developers.google.com/machine-learning/practica/
+- Arxiv https://arxiv.org/
+- Git Xiv http://www.gitxiv.com/ Paper with code.
 
 ## Playground
 - Neural Network Playground http://playground.tensorflow.org/
