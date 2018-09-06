@@ -12,6 +12,7 @@ A list of my favorite sites.
 - ImageNet http://www.image-net.org/
 - UCI Machine Learning Repository https://archive.ics.uci.edu/ml/index.php
 - Glossary of Kaggle commpetitions https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle/ 
+- Search Dataset https://toolbox.google.com/datasetsearch
 
 ## Sales
 - Free IT Ebook Everyday https://www.packtpub.com/packt/offers/free-learning
